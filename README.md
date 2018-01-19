@@ -1,2 +1,2 @@
-# bootstrap_template
-Basic bootstrap template
+# Bootstrap Template
+Basic bootstrap 4 template
